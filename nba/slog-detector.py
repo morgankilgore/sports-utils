@@ -4,7 +4,7 @@
 #     "balldontlie",
 #     "rich",
 #     "typer",
-#     "python-dotenv", # For loading environment variables from .env
+#     "python-dotenv",
 # ]
 # ///
 
